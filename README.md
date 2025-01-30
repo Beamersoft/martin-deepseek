@@ -48,11 +48,11 @@ npm install
 ## 🛠️ Running & Testing the Extension
 
 1. Open the project folder in **VSCode**.
-2. Press `F5` to launch the extension in a new **Extension Development Host** window.
-3. Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
+2. Go to the Debug section and press the button "Run Extension"
+3. A new VSCode window will open. Press Ctrl + Shift + P
 4. Run the command:  
    ```
-   Deep Seek Chat: Start Chat
+   Start Martin-DeepSeek
    ```
 5. A chat panel will open where you can start interacting with the model.
 
