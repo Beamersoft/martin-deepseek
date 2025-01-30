@@ -1,6 +1,6 @@
-# Deep Seek Chat - VSCode Extension
+# Martin-DeepChat Chat - VSCode Extension
 
-Deep Seek Chat is a VSCode extension that allows you to interact with a local **Ollama** model inside VSCode. This extension uses the [`deepseek-r1:7b`](https://deepseek.com) model for generating AI responses in real-time.
+Martin-DeepChat is a VSCode extension that allows you to interact with a local **Ollama** model inside VSCode. This extension uses the [`deepseek-r1:7b`](https://deepseek.com) model for generating AI responses in real-time.
 
 ## 🚀 Features
 - **Chat with a local Ollama model (`deepseek-r1:7b`)**
@@ -38,8 +38,8 @@ ollama pull deepseek-r1:7b
 Clone the repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/yourusername/deepseek-chat-vscode.git
-cd deepseek-chat-vscode
+git clone https://github.com/yourusername/martin-deepseek.git
+cd martin-deepseek
 npm install
 ```
 
@@ -94,10 +94,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ---
 
-## 📧 Contact
-For any questions, reach out to [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
-
----
-
 Happy coding! 🚀
-
